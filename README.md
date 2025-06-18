@@ -79,17 +79,24 @@
   </a>
   <a href="https://discord.com/channels/@darkdeity666" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="39" alt="discord logo"/>
+  </a>  <a href="https://www.buymeacoffee.com/dr.dead" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Buy%20me%20a%20coffee&logo=buy-me-a-coffee&label=&color=FFDD00&logoColor=black&style=for-the-badge" height="39" alt="buy me a coffee logo"/>
   </a>
-  <a href="https://www.buymeacoffee.com/dr.dead" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Buy%20me%20a%20coffee&logo=buy-me-a-coffee&label=&color=FFDD00&logoColor=black&style=for-the-badge" height="39" alt="buy me a coffee logo"/>  </a>
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>🎮 Game Developer • ⚡ Backend Engineer • 🎓 VIT Student</h3>
-        
+  <h3>🎮 Game Developer • ⚡ Backend Engineer • 🎓 VIT Student</h3>
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**I turn caffeine into code… and then code into bugs. Whether building robust backend systems or crafting immersive game worlds, I break things first, then engineer solutions that work. Debugging = problem-solving with extra drama!**
+
+</td>
+<td width="50%" valign="top">
+
 ```javascript
 const developer = {
   name: "Ashish Chaurasiya",
@@ -100,13 +107,10 @@ const developer = {
   philosophy: "Break it first, then engineer better solutions"
 };
 ```
-      </td>
-      <td width="50%" valign="top">
-        <h3>I turn caffeine into code… and then code into bugs. Whether building robust backend systems or crafting immersive game worlds, I break things first, then engineer solutions that work. Debugging = problem-solving with extra drama!</h3>
-      </td>
-    </tr>
-  </table>
-</div>
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/DrDead0/DrDead0/output/snake.svg" alt="Snake animation"/>
 
