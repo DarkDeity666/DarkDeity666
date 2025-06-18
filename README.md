@@ -1,4 +1,3 @@
-<!-- Clean Header -->
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=DrDead0&style=flat-square&color=0e75b6" alt="Profile Views"/>
@@ -13,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
 **🎮 Game Developer** • **⚡ Backend Engineer** • **🎓 VIT Student**
 
@@ -30,9 +29,9 @@ const developer = {
 
 > I turn caffeine into code… and then code into bugs. Whether building robust backend systems or crafting immersive game worlds, I break things first, then engineer solutions that work. Debugging = problem-solving with extra drama! 🎭
 
----
+</div>
 
-## 📊 GitHub Stats
+---
 
 <div align="center">
 
@@ -46,8 +45,6 @@ const developer = {
 </div>
 
 ---
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -70,8 +67,6 @@ const developer = {
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ashish-gamedev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -85,8 +80,6 @@ const developer = {
 </div>
 
 ---
-
-## 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/DrDead0/DrDead0/output/snake.svg" width="100%" alt="Snake"/>
