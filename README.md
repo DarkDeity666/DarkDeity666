@@ -92,11 +92,6 @@
 <tr>
 <td width="50%" valign="top">
 
-**I turn caffeine into code… and then code into bugs. Whether building robust backend systems or crafting immersive game worlds, I break things first, then engineer solutions that work. Debugging = problem-solving with extra drama!**
-
-</td>
-<td width="50%" valign="top">
-
 ```javascript
 const developer = {
   name: "Ashish Chaurasiya",
@@ -107,6 +102,11 @@ const developer = {
   philosophy: "Break it first, then engineer better solutions"
 };
 ```
+
+</td>
+<td width="50%" valign="top">
+
+**I turn caffeine into code… and then code into bugs. Whether building robust backend systems or crafting immersive game worlds, I break things first, then engineer solutions that work. Debugging = problem-solving with extra drama!**
 
 </td>
 </tr>
