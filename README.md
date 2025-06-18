@@ -88,9 +88,6 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3>I turn caffeine into code… and then code into bugs. Whether building robust backend systems or crafting immersive game worlds, I break things first, then engineer solutions that work. Debugging = problem-solving with extra drama!</h3>
-      </td>
-      <td width="50%" valign="top">
         <h3>🎮 Game Developer • ⚡ Backend Engineer • 🎓 VIT Student</h3>
         
 ```javascript
@@ -103,6 +100,9 @@ const developer = {
   philosophy: "Break it first, then engineer better solutions"
 };
 ```
+      </td>
+      <td width="50%" valign="top">
+        <h3>I turn caffeine into code… and then code into bugs. Whether building robust backend systems or crafting immersive game worlds, I break things first, then engineer solutions that work. Debugging = problem-solving with extra drama!</h3>
       </td>
     </tr>
   </table>
