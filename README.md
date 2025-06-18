@@ -64,25 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"/>
 </div>
 </br>
-<div align="center">
-  <a href="https://www.instagram.com/a.shiss.h/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="39" alt="instagram logo"/>
-  </a>
-  <a href="www.linkedin.com/in/ashish-gamedev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="39" alt="linkedin logo"/>
-  </a>
-  <a href="mailto:ashish.chaursiaa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="39" alt="gmail logo"/>
-  </a>
-  <a href="https://twitter.com/I_Am_Mr_Ashu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="39" alt="twitter logo"/>
-  </a>
-  <a href="https://discord.com/channels/@darkdeity666" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="39" alt="discord logo"/>
-  </a>  <a href="https://www.buymeacoffee.com/dr.dead" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Buy%20me%20a%20coffee&logo=buy-me-a-coffee&label=&color=FFDD00&logoColor=black&style=for-the-badge" height="39" alt="buy me a coffee logo"/>
-  </a>
-</div>
 
 <div align="center">
   <h3>🎮 Game Developer • ⚡ Backend Engineer • 🎓 VIT Student</h3>
@@ -111,6 +92,24 @@ const developer = {
 </td>
 </tr>
 </table>
+
+<div align="center">
+  <a href="https://www.instagram.com/a.shiss.h/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="39" alt="instagram logo"/>
+  </a>
+  <a href="www.linkedin.com/in/ashish-gamedev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="39" alt="linkedin logo"/>
+  </a>
+  <a href="mailto:ashish.chaursiaa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="39" alt="gmail logo"/>
+  </a>
+  <a href="https://twitter.com/I_Am_Mr_Ashu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="39" alt="twitter logo"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/dr.dead" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Buy%20me%20a%20coffee&logo=buy-me-a-coffee&label=&color=FFDD00&logoColor=black&style=for-the-badge" height="39" alt="buy me a coffee logo"/>
+  </a>
+</div>
 
 <img src="https://raw.githubusercontent.com/DrDead0/DrDead0/output/snake.svg" alt="Snake animation"/>
 
