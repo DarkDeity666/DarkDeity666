@@ -92,7 +92,8 @@
       </td>
       <td width="50%" valign="top">
         <h3>🎮 Game Developer • ⚡ Backend Engineer • 🎓 VIT Student</h3>
-        <pre>
+        
+```javascript
 const developer = {
   name: "Ashish Chaurasiya",
   location: "India 🇮🇳",
@@ -101,7 +102,7 @@ const developer = {
   currentFocus: "Building immersive experiences & robust systems",
   philosophy: "Break it first, then engineer better solutions"
 };
-        </pre>
+```
       </td>
     </tr>
   </table>
