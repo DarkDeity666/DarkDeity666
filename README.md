@@ -65,10 +65,6 @@
 </div>
 </br>
 
-<div align="center">
-  <h3>🎮 Game Developer • ⚡ Backend Engineer • 🎓 VIT Student</h3>
-</div>
-
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -85,7 +81,7 @@ const developer = {
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 **I turn caffeine into code… and then code into bugs. Whether building robust backend systems or crafting immersive game worlds, I break things first, then engineer solutions that work. Debugging = problem-solving with extra drama!**
 
