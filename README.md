@@ -81,7 +81,7 @@ const developer = {
 ```
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="middle" align="center">
 
 **I turn caffeine into code… and then code into bugs. Whether building robust backend systems or crafting immersive game worlds, I break things first, then engineer solutions that work. Debugging = problem-solving with extra drama!**
 
