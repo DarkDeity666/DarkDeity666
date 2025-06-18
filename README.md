@@ -71,7 +71,7 @@
 
 ```javascript
 const developer = {
-  name: "Ashish Chaurasiya",
+  name: "Dark Deity",
   location: "India 🇮🇳",
   education: "VIT University",
   expertise: ["Game Development", "Backend Systems", "Problem Solving"],
@@ -83,7 +83,7 @@ const developer = {
 </td>
 <td width="50%" valign="middle" align="center">
 
-**I turn caffeine into code… and then code into bugs. Whether building robust backend systems or crafting immersive game worlds, I break things first, then engineer solutions that work. Debugging = problem-solving with extra drama!**
+**I turn caffeine into code… and then code into bugs. Whether building robust backend systems or crafting immersive game worlds, I break things first, then engineer solutions that work. Debugging = problem solving with extra drama!**
 
 </td>
 </tr>
