@@ -99,7 +99,7 @@ const developer = {
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/DarkDeity666/DarkDeity666/output/snake.svg" alt="Snake animation"/>
+<img data-importer="snake" src="https://raw.githubusercontent.com/DarkDeity666/DarkDeity666/snake-output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img height="200" src="https://github.com/DrDead0/DrDead0/blob/main/img/banner4.gif"/>
