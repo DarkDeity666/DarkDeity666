@@ -19,49 +19,38 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"/>
+  <img src="https://skillicons.dev/icons?i=unreal" height="60" alt="unrealengine logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gin" height="60" alt="gin logo" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="googlecloud logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=threejs" height="60" alt="threejs logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
 </div>
 </br>
 
